@@ -80,7 +80,67 @@ let player = new Player()
     }), new Platform({
         x: 2330, y: 300   
     }), new Platform({
-        x: 2730, y: 500
+        x: 2630, y: 500
+    }), new Platform({
+        x:3030, y: 400
+    }),new Platform({
+        x: 3330, y: 400
+    }), new Platform({
+        x: 3630, y: 200
+    }), new Platform({
+        x: 3930, y: 300   
+    }), new Platform({
+        x: 4230, y: 500
+    }), new Platform({
+        x: 4530, y: 100
+    }), new Platform({
+        x: 4830,  y: 100
+    }), new Platform({
+        x: 5130, y: 200
+    }), new Platform({
+        x: 5430, y: 300   
+    }), new Platform({
+        x: 5730, y: 500
+    }),new Platform({
+        x:6030, y: 400
+    }),new Platform({
+        x: 6330, y: 400
+    }), new Platform({
+        x: 6630, y: 200
+    }), new Platform({
+        x: 6930, y: 300   
+    }), new Platform({
+        x: 7230, y: 500
+    }), new Platform({
+        x: 7530, y: 100
+    }), new Platform({
+        x: 7830,  y: 100
+    }), new Platform({
+        x: 8130, y: 200
+    }), new Platform({
+        x: 8430, y: 300   
+    }), new Platform({
+        x: 8730, y: 500
+    }), new Platform({
+        x: 9030, y: 400
+    }),new Platform({
+        x: 9330, y: 400
+    }), new Platform({
+        x: 9630, y: 200
+    }), new Platform({
+        x: 9930, y: 300   
+    }), new Platform({
+        x: 10230, y: 500
+    }), new Platform({
+        x: 10530, y: 100
+    }), new Platform({
+        x: 10830,  y: 100
+    }), new Platform({
+        x: 11130, y: 200
+    }), new Platform({
+        x: 11430, y: 300   
+    }), new Platform({
+        x: 11730, y: 500
     })
     ]
 
@@ -122,13 +182,69 @@ function init() {
     }), new Platform({
         x: 2330, y: 300   
     }), new Platform({
-        x: 2730, y: 500
+        x: 2630, y: 500
+    }), new Platform({
+        x:3030, y: 400
+    }),new Platform({
+        x: 3330, y: 400
+    }), new Platform({
+        x: 3630, y: 200
+    }), new Platform({
+        x: 3930, y: 300   
+    }), new Platform({
+        x: 4230, y: 500
+    }), new Platform({
+        x: 4530, y: 100
+    }), new Platform({
+        x: 4830,  y: 100
+    }), new Platform({
+        x: 5130, y: 200
+    }), new Platform({
+        x: 5430, y: 300   
+    }), new Platform({
+        x: 5730, y: 500
+    }),new Platform({
+        x:6030, y: 400
+    }),new Platform({
+        x: 6330, y: 400
+    }), new Platform({
+        x: 6630, y: 200
+    }), new Platform({
+        x: 6930, y: 300   
+    }), new Platform({
+        x: 7230, y: 500
+    }), new Platform({
+        x: 7530, y: 100
+    }), new Platform({
+        x: 7830,  y: 100
+    }), new Platform({
+        x: 8130, y: 200
+    }), new Platform({
+        x: 8430, y: 300   
+    }), new Platform({
+        x: 8730, y: 500
+    }), new Platform({
+        x: 9030, y: 400
+    }),new Platform({
+        x: 9330, y: 400
+    }), new Platform({
+        x: 9630, y: 200
+    }), new Platform({
+        x: 9930, y: 300   
+    }), new Platform({
+        x: 10230, y: 500
+    }), new Platform({
+        x: 10530, y: 100
+    }), new Platform({
+        x: 10830,  y: 100
+    }), new Platform({
+        x: 11130, y: 200
+    }), new Platform({
+        x: 11430, y: 300   
+    }), new Platform({
+        x: 11730, y: 500
     })
-    ]
-
-
-
-    
+    ]  
 
 }
 
