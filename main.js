@@ -58,7 +58,7 @@ update() {
 
 }
 
-
+// variables
 let player = new Player()
     
     let platforms = [new Platform({
@@ -144,7 +144,7 @@ function init() {
         })
         player.update()
         
-
+// conditions
         if (keys.right.pressed && player.position.x < 400) {
             player.velocity.x = player.speed
         }else if (keys.left.pressed && player.position.x > 100)
@@ -188,7 +188,7 @@ if (player.position.y > canvas.height) {
 
     animate()
 
-
+// event listeners
     addEventListener('keydown', ({keyCode}) => {
       
         console.log(keyCode)
