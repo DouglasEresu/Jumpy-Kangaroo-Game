@@ -4,8 +4,8 @@ window.addEventListener("load", function(){
     
 
     
-    canvas.height = 600;
-    canvas.width = 1105;
+    canvas.height = 700;
+    canvas.width = 1500;
 
 const gravity = 1.5
 
